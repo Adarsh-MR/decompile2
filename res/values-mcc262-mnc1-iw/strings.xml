@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="notification_incoming_call_wifi">‏שיחה נכנסת באמצעות רשת Wi-Fi</string>
-    <string name="notification_incoming_work_call_wifi">‏שיחת עבודה נכנסת באמצעות רשת Wi-Fi</string>
-    <string name="notification_ongoing_call_wifi">‏שיחה פעילה באמצעות רשת Wi-Fi</string>
-    <string name="notification_ongoing_work_call_wifi">‏שיחת עבודה פעילה באמצעות רשת Wi-Fi</string>
+    <string name="notification_call_wifi_brand">שיחה ברשת אלחוטית</string>
+    <string name="notification_call_wifi_work_brand">שיחת עבודה ברשת אלחוטית</string>
 </resources>

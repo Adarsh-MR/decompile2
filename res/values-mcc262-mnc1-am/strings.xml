@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="notification_incoming_call_wifi">ገቢ የWLAN ጥሪ</string>
-    <string name="notification_incoming_work_call_wifi">ገቢ የWLAN የስራ ጥሪ</string>
-    <string name="notification_ongoing_call_wifi">በመካሄድ ላይ ያለ የWLAN ጥሪ</string>
-    <string name="notification_ongoing_work_call_wifi">በመካሄድ ላይ ያለ የWLAN የስራ ጥሪ</string>
+    <string name="notification_call_wifi_brand">የWLAN ጥሪ</string>
+    <string name="notification_call_wifi_work_brand">የWLAN የሥራ ጥሪ</string>
 </resources>
