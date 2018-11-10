@@ -3,7 +3,7 @@
   xmlns:android="http://schemas.android.com/apk/res/android">
     <com.android.dialer.app.voicemail.VoicemailPlaybackLayout android:id="@id/voicemail_playback_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" />
     <View android:background="@color/call_log_action_divider" android:layout_width="fill_parent" android:layout_height="1.0dip" />
-    <LinearLayout android:id="@id/call_action" android:paddingTop="@dimen/call_log_actions_top_padding" style="@style/CallLogActionStyle">
+    <LinearLayout android:id="@id/call_action" style="@style/CallLogActionStyle">
         <ImageView android:src="@drawable/quantum_ic_call_white_24" style="@style/CallLogActionIconStyle" />
         <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
             <TextView android:id="@id/call_action_text" android:text="@string/call" style="@style/CallLogActionTextStyle" />
@@ -13,6 +13,14 @@
     <LinearLayout android:id="@id/video_call_action" style="@style/CallLogActionStyle">
         <ImageView android:src="@drawable/quantum_ic_videocam_white_24" style="@style/CallLogActionIconStyle" />
         <TextView android:text="@string/call_log_action_video_call" style="@style/CallLogActionTextStyle" />
+    </LinearLayout>
+    <LinearLayout android:id="@id/set_up_video_action" style="@style/CallLogActionStyle">
+        <ImageView android:src="@drawable/quantum_ic_videocam_white_24" style="@style/CallLogActionIconStyle" />
+        <TextView android:text="@string/call_log_action_set_up_video" style="@style/CallLogActionTextStyle" />
+    </LinearLayout>
+    <LinearLayout android:id="@id/invite_video_action" style="@style/CallLogActionStyle">
+        <ImageView android:src="@drawable/quantum_ic_videocam_white_24" style="@style/CallLogActionIconStyle" />
+        <TextView android:text="@string/call_log_action_invite_video" style="@style/CallLogActionTextStyle" />
     </LinearLayout>
     <LinearLayout android:id="@id/create_new_contact_action" style="@style/CallLogActionStyle">
         <ImageView android:src="@drawable/quantum_ic_person_add_white_24" style="@style/CallLogActionIconStyle" />

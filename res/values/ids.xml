@@ -4,6 +4,7 @@
     <item type="id" name="accessibility_action_decline">false</item>
     <item type="id" name="account_filter_header">false</item>
     <item type="id" name="account_filter_header_container">false</item>
+    <item type="id" name="action0">false</item>
     <item type="id" name="action_bar">false</item>
     <item type="id" name="action_bar_activity_content">false</item>
     <item type="id" name="action_bar_container">false</item>
@@ -14,13 +15,19 @@
     <item type="id" name="action_bar_title">false</item>
     <item type="id" name="action_container">false</item>
     <item type="id" name="action_context_bar">false</item>
+    <item type="id" name="action_divider">false</item>
+    <item type="id" name="action_image">false</item>
     <item type="id" name="action_menu_divider">false</item>
     <item type="id" name="action_menu_presenter">false</item>
     <item type="id" name="action_mode_bar">false</item>
     <item type="id" name="action_mode_bar_stub">false</item>
     <item type="id" name="action_mode_close_button">false</item>
+    <item type="id" name="action_search">false</item>
+    <item type="id" name="action_text">false</item>
+    <item type="id" name="actions">false</item>
     <item type="id" name="activity_chooser_view_content">false</item>
     <item type="id" name="activity_overlay">false</item>
+    <item type="id" name="add_favorite_container">false</item>
     <item type="id" name="add_number_icon">false</item>
     <item type="id" name="add_number_linear_layout">false</item>
     <item type="id" name="add_number_textview">false</item>
@@ -28,8 +35,6 @@
     <item type="id" name="address_line_one">false</item>
     <item type="id" name="address_line_two">false</item>
     <item type="id" name="alertTitle">false</item>
-    <item type="id" name="all_contacts_fragment">false</item>
-    <item type="id" name="all_contacts_frame">false</item>
     <item type="id" name="allow">false</item>
     <item type="id" name="always_warn">false</item>
     <item type="id" name="answer_hint_container">false</item>
@@ -42,10 +47,16 @@
     <item type="id" name="answer_message_image">false</item>
     <item type="id" name="answer_message_text">false</item>
     <item type="id" name="answer_method_container">false</item>
+    <item type="id" name="assisted_dial_icon">false</item>
+    <item type="id" name="assisted_dialing_container">false</item>
+    <item type="id" name="assisted_dialing_globe">false</item>
+    <item type="id" name="assisted_dialing_text">false</item>
     <item type="id" name="audioroute_bluetooth">false</item>
     <item type="id" name="audioroute_earpiece">false</item>
     <item type="id" name="audioroute_headset">false</item>
     <item type="id" name="audioroute_speaker">false</item>
+    <item type="id" name="avatar">false</item>
+    <item type="id" name="avatar_container">false</item>
     <item type="id" name="background">false</item>
     <item type="id" name="block_action">false</item>
     <item type="id" name="block_details">false</item>
@@ -57,15 +68,9 @@
     <item type="id" name="blocked_number_text_view">false</item>
     <item type="id" name="blocked_numbers_activity_container">false</item>
     <item type="id" name="blocked_numbers_disabled_for_emergency">false</item>
-    <item type="id" name="bubble_button_primary">false</item>
-    <item type="id" name="bubble_drawer_shadow_provider">false</item>
-    <item type="id" name="bubble_expanded_layout">false</item>
-    <item type="id" name="bubble_icon_first">false</item>
-    <item type="id" name="bubble_icon_primary">false</item>
-    <item type="id" name="bubble_icon_second">false</item>
-    <item type="id" name="bubble_icon_third">false</item>
-    <item type="id" name="bubble_primary_container">false</item>
-    <item type="id" name="bubble_text">false</item>
+    <item type="id" name="bottom_nav_bar">false</item>
+    <item type="id" name="bottom_nav_item_image">false</item>
+    <item type="id" name="bottom_nav_item_text">false</item>
     <item type="id" name="buttonPanel">false</item>
     <item type="id" name="call_account_label">false</item>
     <item type="id" name="call_action">false</item>
@@ -79,13 +84,13 @@
     <item type="id" name="call_composer_message">false</item>
     <item type="id" name="call_composer_photo">false</item>
     <item type="id" name="call_composer_view_pager">false</item>
+    <item type="id" name="call_count">false</item>
     <item type="id" name="call_detail_action_copy">false</item>
+    <item type="id" name="call_detail_action_delete">false</item>
     <item type="id" name="call_detail_action_edit_before_call">false</item>
     <item type="id" name="call_detail_action_report_caller_id">false</item>
-    <item type="id" name="call_detail_delete_menu_item">false</item>
     <item type="id" name="call_direction">false</item>
     <item type="id" name="call_duration">false</item>
-    <item type="id" name="call_history">false</item>
     <item type="id" name="call_location_and_date">false</item>
     <item type="id" name="call_log_action_container">false</item>
     <item type="id" name="call_log_day_group_label">false</item>
@@ -94,11 +99,13 @@
     <item type="id" name="call_log_list_item">false</item>
     <item type="id" name="call_log_pager">false</item>
     <item type="id" name="call_log_row">false</item>
+    <item type="id" name="call_log_tab">false</item>
     <item type="id" name="call_subject">false</item>
     <item type="id" name="call_subject_dialog">false</item>
     <item type="id" name="call_time">false</item>
     <item type="id" name="call_to_action">false</item>
     <item type="id" name="call_type">false</item>
+    <item type="id" name="call_type_icon">false</item>
     <item type="id" name="call_type_icons">false</item>
     <item type="id" name="call_type_or_location_text">false</item>
     <item type="id" name="call_with_note_action">false</item>
@@ -115,22 +122,26 @@
     <item type="id" name="camera_preview">false</item>
     <item type="id" name="camera_shutter_visual">false</item>
     <item type="id" name="camera_view">false</item>
+    <item type="id" name="cancel_action">false</item>
     <item type="id" name="cancel_button">false</item>
     <item type="id" name="character_limit">false</item>
     <item type="id" name="checkbox">false</item>
+    <item type="id" name="chronometer">false</item>
+    <item type="id" name="clear_frequents">false</item>
     <item type="id" name="click_target">false</item>
     <item type="id" name="cliv_data_view">false</item>
     <item type="id" name="cliv_label_textview">false</item>
     <item type="id" name="cliv_name_textview">false</item>
+    <item type="id" name="communication_avenue_container">false</item>
     <item type="id" name="conferenceCallerDisconnect">false</item>
     <item type="id" name="conferenceCallerName">false</item>
     <item type="id" name="conferenceCallerNumber">false</item>
-    <item type="id" name="conferenceCallerNumberType">false</item>
     <item type="id" name="conferenceCallerSeparate">false</item>
+    <item type="id" name="conferenceCallerStatus">false</item>
     <item type="id" name="contact_bar">false</item>
     <item type="id" name="contact_detail_list_padding">false</item>
     <item type="id" name="contact_favorite_card">false</item>
-    <item type="id" name="contact_list_all_empty">false</item>
+    <item type="id" name="contact_information">false</item>
     <item type="id" name="contact_name">false</item>
     <item type="id" name="contact_photo">false</item>
     <item type="id" name="contact_star_icon">false</item>
@@ -150,24 +161,30 @@
     <item type="id" name="contactgrid_bottom_timer">false</item>
     <item type="id" name="contactgrid_connection_icon">false</item>
     <item type="id" name="contactgrid_contact_name">false</item>
+    <item type="id" name="contactgrid_device_number_text">false</item>
     <item type="id" name="contactgrid_forwardIcon">false</item>
     <item type="id" name="contactgrid_forwardNumber">false</item>
     <item type="id" name="contactgrid_hdIcon">false</item>
+    <item type="id" name="contactgrid_location_divider">false</item>
     <item type="id" name="contactgrid_spamIcon">false</item>
     <item type="id" name="contactgrid_status_text">false</item>
     <item type="id" name="contactgrid_top_row">false</item>
+    <item type="id" name="contactgrid_top_row_space">false</item>
     <item type="id" name="contactgrid_workIcon">false</item>
-    <item type="id" name="contacts">false</item>
+    <item type="id" name="contacts_tab">false</item>
     <item type="id" name="container">false</item>
+    <item type="id" name="content">false</item>
     <item type="id" name="contentPanel">false</item>
     <item type="id" name="context_menu_block">false</item>
     <item type="id" name="context_menu_block_report_spam">false</item>
     <item type="id" name="context_menu_copy_to_clipboard">false</item>
     <item type="id" name="context_menu_copy_transcript_to_clipboard">false</item>
+    <item type="id" name="context_menu_delete">false</item>
     <item type="id" name="context_menu_edit_before_call">false</item>
     <item type="id" name="context_menu_report_not_spam">false</item>
     <item type="id" name="context_menu_unblock">false</item>
     <item type="id" name="coordinator">false</item>
+    <item type="id" name="coordinator_layout">false</item>
     <item type="id" name="count">false</item>
     <item type="id" name="count_and_send_container">false</item>
     <item type="id" name="create_new_contact_action">false</item>
@@ -177,6 +194,7 @@
     <item type="id" name="custom_sms_input">false</item>
     <item type="id" name="decor_content_parent">false</item>
     <item type="id" name="default_account_checkbox_layout">false</item>
+    <item type="id" name="default_account_checkbox_text">false</item>
     <item type="id" name="default_account_checkbox_view">false</item>
     <item type="id" name="default_activity_button">false</item>
     <item type="id" name="deleteButton">false</item>
@@ -190,15 +208,25 @@
     <item type="id" name="design_navigation_view">false</item>
     <item type="id" name="details">false</item>
     <item type="id" name="details_action">false</item>
+    <item type="id" name="deviceid_barcode">false</item>
+    <item type="id" name="deviceid_dec">false</item>
+    <item type="id" name="deviceid_dec_label">false</item>
+    <item type="id" name="deviceid_hex">false</item>
+    <item type="id" name="deviceid_hex_label">false</item>
+    <item type="id" name="deviceids_holder">false</item>
     <item type="id" name="dialog_view">false</item>
     <item type="id" name="dialpad">false</item>
     <item type="id" name="dialpadChooser">false</item>
     <item type="id" name="dialpad_back">false</item>
     <item type="id" name="dialpad_floating_action_button">false</item>
     <item type="id" name="dialpad_floating_action_button_margin_bottom">false</item>
-    <item type="id" name="dialpad_key2_letters">false</item>
+    <item type="id" name="dialpad_fragment_container">false</item>
+    <item type="id" name="dialpad_key_horizontal_placeholder">false</item>
+    <item type="id" name="dialpad_key_icon_or_letters_layout">false</item>
+    <item type="id" name="dialpad_key_layout">false</item>
     <item type="id" name="dialpad_key_letters">false</item>
     <item type="id" name="dialpad_key_number">false</item>
+    <item type="id" name="dialpad_key_secondary_letters">false</item>
     <item type="id" name="dialpad_key_voicemail">false</item>
     <item type="id" name="dialpad_overflow">false</item>
     <item type="id" name="dialpad_view">false</item>
@@ -209,17 +237,25 @@
     <item type="id" name="digits">false</item>
     <item type="id" name="digits_container">false</item>
     <item type="id" name="directory_header">false</item>
+    <item type="id" name="disambig_dialog_title">false</item>
+    <item type="id" name="disambig_option_container">false</item>
+    <item type="id" name="disambig_option_icon">false</item>
+    <item type="id" name="disambig_option_text">false</item>
+    <item type="id" name="disambig_scrollview">false</item>
     <item type="id" name="display_name">false</item>
     <item type="id" name="divider">false</item>
     <item type="id" name="dtmf_twelve_key_dialer_view">false</item>
-    <item type="id" name="dummy_placeholder">false</item>
     <item type="id" name="ec_container">false</item>
     <item type="id" name="edit_query">false</item>
+    <item type="id" name="edittext_container">false</item>
     <item type="id" name="eight">false</item>
+    <item type="id" name="empty_content_view">false</item>
     <item type="id" name="empty_list_view">false</item>
     <item type="id" name="empty_list_view_action">false</item>
     <item type="id" name="empty_list_view_image">false</item>
     <item type="id" name="empty_list_view_message">false</item>
+    <item type="id" name="empty_view">false</item>
+    <item type="id" name="end_padder">false</item>
     <item type="id" name="errorText">false</item>
     <item type="id" name="error_card">false</item>
     <item type="id" name="error_card_content">false</item>
@@ -231,27 +267,33 @@
     <item type="id" name="fast_scroller">false</item>
     <item type="id" name="fast_scroller_container">false</item>
     <item type="id" name="fast_scroller_scroll_bar">false</item>
-    <item type="id" name="feedback">false</item>
     <item type="id" name="five">false</item>
     <item type="id" name="floating_action_button">false</item>
     <item type="id" name="floating_action_button_container">false</item>
     <item type="id" name="focus_visual">false</item>
     <item type="id" name="footer_container">false</item>
     <item type="id" name="four">false</item>
+    <item type="id" name="fragment_container">false</item>
+    <item type="id" name="fragment_speakeasy">false</item>
     <item type="id" name="gallery">false</item>
     <item type="id" name="gallery_grid_view">false</item>
     <item type="id" name="ghost_view">false</item>
+    <item type="id" name="group_divider">false</item>
     <item type="id" name="hd_attempting">false</item>
     <item type="id" name="hd_enabled">false</item>
+    <item type="id" name="hd_icon">false</item>
     <item type="id" name="header">false</item>
     <item type="id" name="headerText">false</item>
+    <item type="id" name="hint">false</item>
     <item type="id" name="hintText">false</item>
     <item type="id" name="hint_container">false</item>
     <item type="id" name="history_button">false</item>
     <item type="id" name="hold_contact_name">false</item>
     <item type="id" name="hold_phone_icon">false</item>
     <item type="id" name="home">false</item>
+    <item type="id" name="ic_sim_change_white">false</item>
     <item type="id" name="icon">false</item>
+    <item type="id" name="icon_group">false</item>
     <item type="id" name="ild_container">false</item>
     <item type="id" name="ild_country">false</item>
     <item type="id" name="ild_rate">false</item>
@@ -289,6 +331,8 @@
     <item type="id" name="incoming_swipe_to_answer_text">false</item>
     <item type="id" name="incoming_swipe_to_reject_text">false</item>
     <item type="id" name="incoming_will_disconnect_text">false</item>
+    <item type="id" name="info">false</item>
+    <item type="id" name="invite_video_action">false</item>
     <item type="id" name="item_touch_helper_previous_elevation">false</item>
     <item type="id" name="label">false</item>
     <item type="id" name="largeLabel">false</item>
@@ -297,6 +341,8 @@
     <item type="id" name="license_activity_scrollview">false</item>
     <item type="id" name="license_activity_textview">false</item>
     <item type="id" name="license_list">false</item>
+    <item type="id" name="line1">false</item>
+    <item type="id" name="line3">false</item>
     <item type="id" name="list_card">false</item>
     <item type="id" name="list_item">false</item>
     <item type="id" name="lists_frame">false</item>
@@ -310,20 +356,29 @@
     <item type="id" name="location_loading_spinner">false</item>
     <item type="id" name="location_loading_text">false</item>
     <item type="id" name="location_map">false</item>
+    <item type="id" name="location_permission_allow">false</item>
+    <item type="id" name="location_permission_dismiss">false</item>
     <item type="id" name="location_view_animator">false</item>
     <item type="id" name="main">false</item>
+    <item type="id" name="main_options_menu_button">false</item>
     <item type="id" name="manageConferencePanel">false</item>
     <item type="id" name="masked">false</item>
     <item type="id" name="media_actions">false</item>
     <item type="id" name="mediapicker_enabled">false</item>
     <item type="id" name="menu_2s_pause">false</item>
+    <item type="id" name="menu_add_call">false</item>
     <item type="id" name="menu_add_wait">false</item>
+    <item type="id" name="menu_button">false</item>
+    <item type="id" name="menu_call_history">false</item>
     <item type="id" name="menu_call_settings">false</item>
     <item type="id" name="menu_call_with_note">false</item>
     <item type="id" name="menu_clear_frequents">false</item>
     <item type="id" name="menu_history">false</item>
+    <item type="id" name="menu_keypad">false</item>
+    <item type="id" name="menu_mute">false</item>
     <item type="id" name="menu_new_ui_launcher_shortcut">false</item>
     <item type="id" name="menu_simulator_submenu">false</item>
+    <item type="id" name="menu_speaker">false</item>
     <item type="id" name="message">false</item>
     <item type="id" name="message_chat">false</item>
     <item type="id" name="message_container">false</item>
@@ -337,34 +392,53 @@
     <item type="id" name="module_container">false</item>
     <item type="id" name="module_image">false</item>
     <item type="id" name="module_text">false</item>
+    <item type="id" name="mtrl_child_content_container">false</item>
+    <item type="id" name="mtrl_internal_children_alpha_tag">false</item>
     <item type="id" name="multi_select_select_all_view_content">false</item>
     <item type="id" name="multimedia_attachments_number">false</item>
     <item type="id" name="multimedia_details">false</item>
     <item type="id" name="multimedia_image">false</item>
     <item type="id" name="multimedia_image_container">false</item>
     <item type="id" name="name">false</item>
+    <item type="id" name="navigation_bar_background">false</item>
     <item type="id" name="navigation_header_container">false</item>
     <item type="id" name="network">false</item>
+    <item type="id" name="new_call_log_header_text">false</item>
     <item type="id" name="new_call_log_recycler_view">false</item>
+    <item type="id" name="new_voicemail_call_log_recycler_view">false</item>
+    <item type="id" name="new_voicemail_frame_layout">false</item>
+    <item type="id" name="new_voicemail_header_text">false</item>
+    <item type="id" name="new_voicemail_media_player">false</item>
     <item type="id" name="next_button">false</item>
     <item type="id" name="nine">false</item>
+    <item type="id" name="notification_background">false</item>
+    <item type="id" name="notification_badge">false</item>
+    <item type="id" name="notification_main_column">false</item>
+    <item type="id" name="notification_main_column_container">false</item>
     <item type="id" name="number">false</item>
     <item type="id" name="one">false</item>
-    <item type="id" name="pager">false</item>
+    <item type="id" name="overflow">false</item>
     <item type="id" name="parentPanel">false</item>
     <item type="id" name="parent_matrix">false</item>
     <item type="id" name="participantList">false</item>
+    <item type="id" name="pauseButton">false</item>
     <item type="id" name="paw_image">false</item>
     <item type="id" name="permission_icon">false</item>
+    <item type="id" name="permission_image">false</item>
     <item type="id" name="permission_text">false</item>
     <item type="id" name="permission_view">false</item>
+    <item type="id" name="phoneButton">false</item>
+    <item type="id" name="phone_account">false</item>
     <item type="id" name="phone_number">false</item>
+    <item type="id" name="phone_type">false</item>
     <item type="id" name="photo">false</item>
+    <item type="id" name="pill_stroke">false</item>
     <item type="id" name="pin_entry">false</item>
     <item type="id" name="pinned_header_list_layout">false</item>
-    <item type="id" name="play_recordings">false</item>
+    <item type="id" name="playButton">false</item>
     <item type="id" name="playback_position_text">false</item>
     <item type="id" name="playback_seek">false</item>
+    <item type="id" name="playback_seek_total_duration">false</item>
     <item type="id" name="playback_speakerphone">false</item>
     <item type="id" name="playback_start_stop">false</item>
     <item type="id" name="playback_state_text">false</item>
@@ -376,6 +450,8 @@
     <item type="id" name="primary_action_button">false</item>
     <item type="id" name="primary_action_raised">false</item>
     <item type="id" name="primary_action_view">false</item>
+    <item type="id" name="primary_row">false</item>
+    <item type="id" name="primary_text">false</item>
     <item type="id" name="progress_circular">false</item>
     <item type="id" name="progress_horizontal">false</item>
     <item type="id" name="promo_card">false</item>
@@ -387,19 +463,35 @@
     <item type="id" name="recycler_view">false</item>
     <item type="id" name="refresh">false</item>
     <item type="id" name="remaining_characters">false</item>
+    <item type="id" name="remember_this_choice_checkbox">false</item>
+    <item type="id" name="remember_this_choice_container">false</item>
     <item type="id" name="remove_view">false</item>
     <item type="id" name="remove_view_content">false</item>
     <item type="id" name="remove_view_icon">false</item>
     <item type="id" name="remove_view_text">false</item>
     <item type="id" name="report_not_spam_action">false</item>
     <item type="id" name="report_number_as_spam_action">false</item>
+    <item type="id" name="right_icon">false</item>
+    <item type="id" name="right_side">false</item>
+    <item type="id" name="root_layout">false</item>
+    <item type="id" name="rtt_chat_avatar">false</item>
+    <item type="id" name="rtt_chat_input">false</item>
+    <item type="id" name="rtt_chat_message">false</item>
+    <item type="id" name="rtt_chat_message_container">false</item>
+    <item type="id" name="rtt_chat_submit_button">false</item>
+    <item type="id" name="rtt_end_call_button">false</item>
+    <item type="id" name="rtt_name_or_number">false</item>
+    <item type="id" name="rtt_overflow_button">false</item>
+    <item type="id" name="rtt_recycler_view">false</item>
+    <item type="id" name="rtt_timer">false</item>
     <item type="id" name="save_image_matrix">false</item>
     <item type="id" name="save_non_transition_alpha">false</item>
     <item type="id" name="save_scale_type">false</item>
     <item type="id" name="scrollIndicatorDown">false</item>
     <item type="id" name="scrollIndicatorUp">false</item>
     <item type="id" name="scrollView">false</item>
-    <item type="id" name="search">false</item>
+    <item type="id" name="search_action_image">false</item>
+    <item type="id" name="search_action_text">false</item>
     <item type="id" name="search_back_button">false</item>
     <item type="id" name="search_badge">false</item>
     <item type="id" name="search_bar">false</item>
@@ -407,6 +499,7 @@
     <item type="id" name="search_box_expanded">false</item>
     <item type="id" name="search_box_start_search">false</item>
     <item type="id" name="search_button">false</item>
+    <item type="id" name="search_clear_button">false</item>
     <item type="id" name="search_close_btn">false</item>
     <item type="id" name="search_close_button">false</item>
     <item type="id" name="search_edit_frame">false</item>
@@ -422,6 +515,8 @@
     <item type="id" name="secondary">false</item>
     <item type="id" name="secondary_action">false</item>
     <item type="id" name="secondary_action_raised">false</item>
+    <item type="id" name="secondary_row">false</item>
+    <item type="id" name="secondary_text">false</item>
     <item type="id" name="select_all_view_icon">false</item>
     <item type="id" name="select_all_view_text">false</item>
     <item type="id" name="select_dialog_listview">false</item>
@@ -433,6 +528,7 @@
     <item type="id" name="session_string">false</item>
     <item type="id" name="sessions_recycler_view">false</item>
     <item type="id" name="setPrimary">false</item>
+    <item type="id" name="set_up_video_action">false</item>
     <item type="id" name="settings">false</item>
     <item type="id" name="settings_header_sounds_and_vibration">false</item>
     <item type="id" name="seven">false</item>
@@ -446,35 +542,48 @@
     <item type="id" name="spacer">false</item>
     <item type="id" name="spam_image">false</item>
     <item type="id" name="spam_text">false</item>
+    <item type="id" name="speakerButton">false</item>
+    <item type="id" name="speed_dial_add_button">false</item>
+    <item type="id" name="speed_dial_header_text">false</item>
+    <item type="id" name="speed_dial_recycler_view">false</item>
+    <item type="id" name="speed_dial_tab">false</item>
     <item type="id" name="split_action_bar">false</item>
     <item type="id" name="star">false</item>
-    <item type="id" name="subject">false</item>
+    <item type="id" name="status_bar_latest_event_content">false</item>
     <item type="id" name="subject_list">false</item>
     <item type="id" name="submenuarrow">false</item>
     <item type="id" name="submit_area">false</item>
     <item type="id" name="subtitle">false</item>
     <item type="id" name="swap_camera_button">false</item>
-    <item type="id" name="tab_layout">false</item>
     <item type="id" name="tag_contact_type">false</item>
     <item type="id" name="tag_display_name">false</item>
     <item type="id" name="tag_identifier">false</item>
+    <item type="id" name="tag_transition_group">false</item>
+    <item type="id" name="tag_unhandled_key_event_manager">false</item>
+    <item type="id" name="tag_unhandled_key_listeners">false</item>
     <item type="id" name="text">false</item>
+    <item type="id" name="text2">false</item>
     <item type="id" name="textSpacerNoButtons">false</item>
     <item type="id" name="textSpacerNoTitle">false</item>
     <item type="id" name="text_input_password_toggle">false</item>
     <item type="id" name="textinput_counter">false</item>
     <item type="id" name="textinput_error">false</item>
+    <item type="id" name="textinput_helper_text">false</item>
     <item type="id" name="three">false</item>
-    <item type="id" name="timestamp">false</item>
+    <item type="id" name="time">false</item>
     <item type="id" name="title">false</item>
     <item type="id" name="titleDividerNoCustom">false</item>
     <item type="id" name="title_template">false</item>
     <item type="id" name="toolbar">false</item>
+    <item type="id" name="toolbar_shadow">false</item>
     <item type="id" name="topPanel">false</item>
     <item type="id" name="tos_message_details">false</item>
     <item type="id" name="tos_message_title">false</item>
     <item type="id" name="total_duration_text">false</item>
     <item type="id" name="touch_outside">false</item>
+    <item type="id" name="transcription">false</item>
+    <item type="id" name="transcription_branding">false</item>
+    <item type="id" name="transcription_text">false</item>
     <item type="id" name="transition_current_scene">false</item>
     <item type="id" name="transition_layout_save">false</item>
     <item type="id" name="transition_position">false</item>
@@ -489,6 +598,7 @@
     <item type="id" name="unblock_action">false</item>
     <item type="id" name="up">false</item>
     <item type="id" name="video_call_action">false</item>
+    <item type="id" name="video_call_container">false</item>
     <item type="id" name="video_call_lte_to_wifi_failed_checkbox">false</item>
     <item type="id" name="videocall_end_call">false</item>
     <item type="id" name="videocall_fullscreen_background">false</item>
@@ -516,15 +626,31 @@
     <item type="id" name="view_offset_helper">false</item>
     <item type="id" name="viewpager_header">false</item>
     <item type="id" name="visible">false</item>
+    <item type="id" name="voice_call_container">false</item>
     <item type="id" name="voice_search_button">false</item>
+    <item type="id" name="voicemail_alert_button">false</item>
+    <item type="id" name="voicemail_alert_content">false</item>
+    <item type="id" name="voicemail_alert_details">false</item>
+    <item type="id" name="voicemail_alert_header">false</item>
+    <item type="id" name="voicemail_alert_icon">false</item>
+    <item type="id" name="voicemail_alert_primary_button">false</item>
+    <item type="id" name="voicemail_alert_secondary_button">false</item>
     <item type="id" name="voicemail_image">false</item>
     <item type="id" name="voicemail_playback_layout">false</item>
     <item type="id" name="voicemail_promo_card_icon">false</item>
+    <item type="id" name="voicemail_tab">false</item>
     <item type="id" name="voicemail_tos_button">false</item>
     <item type="id" name="voicemail_tos_button_accept">false</item>
     <item type="id" name="voicemail_tos_button_decline">false</item>
     <item type="id" name="voicemail_tos_message">false</item>
     <item type="id" name="voicemail_transcription">false</item>
+    <item type="id" name="voicemail_transcription_branding">false</item>
+    <item type="id" name="voicemail_transcription_rating">false</item>
+    <item type="id" name="voicemail_transcription_rating_bad">false</item>
+    <item type="id" name="voicemail_transcription_rating_good">false</item>
+    <item type="id" name="voicemail_transcription_rating_text">false</item>
+    <item type="id" name="wifi_icon">false</item>
+    <item type="id" name="work_icon">false</item>
     <item type="id" name="work_profile_icon">false</item>
     <item type="id" name="zero">false</item>
 </resources>
